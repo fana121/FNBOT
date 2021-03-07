@@ -1,5 +1,5 @@
-# wabot-aq
-Simple WhatsApp Bot
+# SYSTEM BOT
+FN WhatsApp Bot
 
 ### FOR TERMUX USER
 ```bash
@@ -8,8 +8,8 @@ Simple WhatsApp Bot
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/Nurutomo/wabot-aq
-> cd wabot-aq
+> git clone https://github.com/fana121/FNBOT
+> cd FNBOT
 > npm install
 ```
 ###### Run
@@ -37,3 +37,7 @@ Simple WhatsApp Bot
 
 ##### Powered By : [`XTEAM`](https://api.xteam.xyz) 
 ##### Author / Creator : [`Nurutomo`](https://GitHub.com/Nurutomo) 
+##### Thanks To :
+1. Allah SWT
+2. Nurutomo
+3. Fana121
