@@ -7,8 +7,17 @@ handler.before = m => {
   let isGroupLink = linkRegex.exec(m.text)
 
   if (chat.antiLink && isGroupLink) m.reply('Hapus!!')
-
-  return true
+  for (let user of users) if (user.endsWith('@s.whatsapp.net')) aw>
 }
+handler.help = ['antilink']
+handler.tags = ['owner']
+handler.command = /^antilink$/i
+handler.owner = true
+handler.mods = true
+handler.premium = false
+handler.group = false
 
-module.exports = handler
+handler.admin = true
+handler.botAdmin = true
+
+  module.exports = handler
