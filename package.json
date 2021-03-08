@@ -1,7 +1,7 @@
 {
   "name": "FNBOT",
   "version": "1.4.1",
-  "description": "Customizable WhatsApp Bot",
+  "description": "classic whatsapp bot",
   "depecrated": false,
   "main": "index.js",
   "directories": {
