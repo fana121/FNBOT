@@ -13,11 +13,6 @@ handler.help = ['antilink']
 handler.tags = ['owner']
 handler.command = /^antilink$/i
 handler.owner = true
-handler.mods = true
-handler.premium = false
-handler.group = false
-
 handler.admin = true
-handler.botAdmin = true
-
+  
   module.exports = handler
