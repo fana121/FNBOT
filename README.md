@@ -1,5 +1,4 @@
 # I'am Fana 👋  Give me a star
-![IMG-20210308-WA0434](https://user-images.githubusercontent.com/79257110/110325686-37617080-804a-11eb-8691-8662ac95e198.jpg)
 
 # NAME BOT
 FN WhatsApp Bot
