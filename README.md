@@ -46,8 +46,13 @@ FN WhatsApp Bot
 ```
 --------------
 
-##### Powered By : [`XTEAM`](https://api.xteam.xyz) 
-##### Author / Creator : [`Nurutomo`](https://GitHub.com/Nurutomo) 
+##### Powered By
+ [`XTEAM`](https://api.xteam.xyz) 
+##### Author / Creator
+ [`Nurutomo`](https://GitHub.com/Nurutomo) 
+##### Donasi💰
+ [`Saweria`](https://saweria.co/fantod)
+
 ##### Thanks To :
 1. Allah SWT
 2. Nurutomo
