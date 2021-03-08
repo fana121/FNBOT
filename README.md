@@ -2,12 +2,14 @@
 # NAME BOT
 FN WhatsApp Bot
 ## ALAT & BAHAN
+```bash
 > Termux
 > Jaringan 4G++ (no lag)
 > Penyimpanan yg memadai
 > 2 Handphone (yg 1 buat scan Qr yg 1 nya lagi buat bot nya
 > 2 Whatsapp (1 buat bot, 1 buat owner)
 > rokok + kopi :v
+```
 ### FOR TERMUX USER
 ```bash
 > pkg update && pkg upgrade
