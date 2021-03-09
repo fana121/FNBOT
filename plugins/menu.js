@@ -78,7 +78,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 
        _Halo *%name* ketik *.menu* untuk melakukan perintah🐦_
 
-```Follow me in sosmed :```
+*Follow me in sosmed :*
 *Instagram :*
 https://www.instagram.com/safan4._.0g
 *Facebook :*
