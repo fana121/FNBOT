@@ -18,6 +18,8 @@ Daftar berhasil!
 ╭─「 Info 」
 │ Nama: ${name}
 │ Umur: ${age}thn
+│ Number: ${PhoneNumber('+' + who.replace('@s.whatsapp.net', '')).getNumber('international')}
+│ Link: https://wa.me/${who.split`@`[0]}${registered ? '\nAge: ' + age : ''}
 │ SN: ${sn}
 ╰────
 `.trim())
