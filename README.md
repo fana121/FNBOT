@@ -79,5 +79,6 @@ FN WHATSAPP BOT
 <a href="http://wa.me/6285891927691" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
 <a href="http://www.instagram.com/safan4._0g" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
 <a href="https://www.facebook.com/kang.id.9693" target="blank"><img src="https://img.shields.io/badge/Facebook-30302f?style=flat&logo=facebook" /></a>
+<a href="https://www.youtube.com/channel/UC9bYTKtZy6qfV09VAPHR6HA" target="blank"><img src="https://img.shields.io/badge/Youtube-30302f?style=flat&logo=youtube" /></a>
 </p>
 
