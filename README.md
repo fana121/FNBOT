@@ -30,7 +30,7 @@ FN WHATSAPP BOT
 ```
 ### FOR TERMUX USER
 ```bash
-> pkg update && pkg upgrade
+> pkg update && pkg upgrade -y
 > pkg install git -y
 > pkg install nodejs -y
 > pkg install ffmpeg -y
