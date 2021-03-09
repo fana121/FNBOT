@@ -17,7 +17,9 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffana121%2FFNBOT&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
  
 # NAME BOT
+```bash
 FN WhatsApp Bot
+```bash
 ## ALAT & BAHAN
 ```bash
 > Termux
