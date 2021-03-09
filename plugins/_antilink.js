@@ -1,18 +1,30 @@
-let handler = m => m
-
-let linkRegex = /chat.whatsapp.com\/([0-9A-Za-z]{20,24})/i
-handler.before = m => {
-  if (m.isBaileys && m.fromMe) return true
-  let chat = global.DATABASE.data.chats[m.chat]
-  let isGroupLink = linkRegex.exec(m.text)
-
-  if (chat.antiLink && isGroupLink) m.reply('Hapus!!')
-  for (let user of users) if (user.endsWith('@s.whatsapp.net')) aw>
+let { Presence } = require('@adiwajshing/baileys')
+let handler = async (m, { conn, args, usedPrefix, command }) => {
+	if(!args || !args[0]) {
+		await conn.updatePresence(m.chat, Presence.composing) 
+		conn.reply(m.chat, `*Format salah! Contoh :*\n\n	*○ ${usedPrefix + command} on*\n	*○ ${usedPrefix + command} off*`, m)
+	} else if(args[0] == 'on') {
+		let cek = global.DATABASE._data.chats[m.chat].nolink
+	if(cek) return conn.reply(m.chat, `*Anti-Link telah aktif pada grup ini.*`, m)
+		await conn.updatePresence(m.chat, Presence.composing) 
+		global.DATABASE._data.chats[m.chat].nolink = true
+		conn.reply(m.chat, `*Anti-Link berhasil diaktifkan.*`, m)
+	} else if(args[0] == 'off') {
+		let cek = global.DATABASE._data.chats[m.chat].nolink
+	if(!cek) return conn.reply(m.chat, `*Anti-Link telah di nonaktifkan pada grup ini.*`, m)
+		await conn.updatePresence(m.chat, Presence.composing) 
+		global.DATABASE._data.chats[m.chat].nolink = false
+		conn.reply(m.chat, `*Anti-Link berhasil di nonaktifkan.*`, m)
+	} else {
+		await conn.updatePresence(m.chat, Presence.composing) 
+		conn.reply(m.chat, `*Format salah! Contoh :*\n\n	*○ ${usedPrefix + command} on*\n	*○ ${usedPrefix + command} off*`, m)
+	} 
 }
 handler.help = ['antilink']
-handler.tags = ['owner']
-handler.command = /^antilink$/i
-handler.owner = true
+handler.tags = ['']
+handler.command = /^(antilink)$/i
+handler.owner = false
 handler.admin = true
-  
-  module.exports = handler
+handler.botAdmin = true
+handler.exp = 0
+module.exports = handler
