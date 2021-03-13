@@ -39,6 +39,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
       'xp': 'Exp & Limit',
       'sticker': 'Sticker',
       'maker': 'Makermenu',
+      'anime'; 'Anime',
       'kerang': 'Kerang Ajaib',
       'quotes': 'Quotes',
       'admin': 'Admin',
@@ -77,7 +78,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
     let before = conn.menu.before || `
 *I'am Fana*
 
-       _Halo *%name* ketik *.menu* untuk melakukan perintah🐦_
+       _Halo *%name* ketik *${prefix}menu* untuk melakukan perintah🐦_
 
 *Follow me in sosmed :*
 *Instagram :*
@@ -86,8 +87,6 @@ https://www.instagram.com/safan4._.0g
 https://www.facebook.com/kang.id.9693
 *YouTube :*
 https://m.youtube.com/channel/UC9bYTKtZy6qfV09VAPHR6HA
-*Github :*
-%github
 
 %readmore
 ╭─「 ${conn.user.name} 」
@@ -102,7 +101,7 @@ https://m.youtube.com/channel/UC9bYTKtZy6qfV09VAPHR6HA
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
 │ Ingin Sewa Bot ?
-│ Hubungi _*.owner*_
+│ Hubungi _*${prefix}owner*_
 ╰────
 %readmore`
     let header = conn.menu.header || '╭─「 %category 」'
