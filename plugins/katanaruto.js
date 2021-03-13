@@ -1,3 +1,27 @@
+let handler  = async (m, { conn }) => {
+  conn.reply(m.chat,`“${pickRandom(global.katanaruto)}”`, m)
+}
+handler.help = ['katanaruto']
+handler.tags = ['quotes']
+handler.command = /^(katanaruto)$/i
+handler.owner = false
+handler.mods = false
+handler.premium = false
+handler.group = false
+handler.private = false
+
+handler.admin = false
+handler.botAdmin = false
+
+handler.fail = null
+
+module.exports = handler
+
+function pickRandom(list) {
+  return list[Math.floor(list.length * Math.random())]
+}
+
+// Jangan diubah tod
 global.katanaruto =
   [
   "Aku hanya ingin melindungi mereka, walau harus menjalani penderitaan seperti apapun. (Naruto Uzumaki, Chapter 373)",  
@@ -13,3 +37,4 @@ global.katanaruto =
   "Shinobi yang melanggar aturan memang disebut sampah, tetapi Shinobi yang meninggalkan sahabatnya lebih rendah dari sampah. (Uchiha Obito)",
   "Orang yang meninggalkan temannya lebih buruk dari sampah. (Naruto Uzumaki)",
   "Kelak nanti aku bisa menemanimu hingga akhir waktu. Takkan kubiarkan kau sendiri dalam pahitmu. (Naruto Uzumaki)",
+  ]
