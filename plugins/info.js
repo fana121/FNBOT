@@ -3,10 +3,12 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ⚠️ *INFO FNBOT* ⚠️
 Dibuat dengan Javascript
 
-Rec: Fantodd
+Rec: Fantod
 Script: @Nurotomo
-Github: 
-%github
+
+*Rules FNBOT:*
+1. Dilarang Keras Chat Prib Bot!!
+2. Dilarang Keras Spam/Telpon Bot!!
 
 *Sosmed :*
 Kritik kami di sosmed ataupun YouTube.
@@ -20,7 +22,7 @@ Nurotomo
 Ramlan
 Drawl Nag
 Fantod
-Dan kawan-kawan yang lain :)
+Dan all creator bot yang lain :)
 
 ╠═〘 DONASI 〙 ═
 ╠➥ Gopay : 085891927691
