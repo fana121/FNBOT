@@ -76,7 +76,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
     let before = conn.menu.before || `
 *I'am Fana*
 
-       _Halo *%name* ketik *${prefix}menu* untuk melakukan perintah🐦_
+       _Halo *%name* Gunain Botnya Jangan Spam Ya Ngentod🗿_
 
 *Follow me in sosmed :*
 *Instagram :*
@@ -99,7 +99,7 @@ https://m.youtube.com/channel/UC9bYTKtZy6qfV09VAPHR6HA
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
 │ Ingin Sewa Bot ?
-│ Hubungi _*${prefix}owner*_
+│ Hubungi *wa.me/6285891927691*
 ╰────
 %readmore`
     let header = conn.menu.header || '╭─「 %category 」'
