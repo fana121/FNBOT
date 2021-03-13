@@ -9,12 +9,13 @@ global.katanaruto =
   "Takdir setiap manusia memang telah ditentukan sejak mereka lahir, tetapi dengan kerja keras kita dapat mengalahkan takdir. (Naruto Uzumaki)",
   "Aku tidak suka dengan orang yang membohongi dirinya sendiri di tengah turunnya salju. (Naruto Uzumaki)",
   "Memang luka di hati ini terasa lebih sakit, dibandingkan semua luka pada tubuhku. (Gaara)",
+  "Menjadi Kuat tidak selamanya menyenangkan. Ketika kau kuat, Kau menjadi sombong dan menarik diri. Bahkan jika yang kau incar adalah mimpi. (Uchiha Itachi)",
+  "Shinobi yang melanggar aturan memang disebut sampah, tetapi Shinobi yang meninggalkan sahabatnya lebih rendah dari sampah. (Uchiha Obito)",
+  "Orang yang meninggalkan temannya lebih buruk dari sampah. (Naruto Uzumaki)",
+ 
 
-"Menjadi Kuat tidak selamanya menyenangkan. Ketika kau kuat, Kau menjadi sombong dan menarik diri. Bahkan jika yang kau incar adalah mimpi. (Uchiha Itachi)",
 
-"Shinobi yang melanggar aturan memang disebut sampah, tetapi Shinobi yang meninggalkan sahabatnya lebih rendah dari sampah. (Uchiha Obito)",
 
-"Orang yang meninggalkan temannya lebih buruk dari sampah. (Naruto Uzumaki)",
 
 "Kelak nanti aku bisa menemanimu hingga akhir waktu. Takkan kubiarkan kau sendiri dalam pahitmu. (Naruto Uzumaki)",
 
@@ -23,7 +24,7 @@ global.katanaruto =
 "Teman itu adalah orang yang menyelamatkan dari neraka yang bernama kesepian. (Uzumaki Naruto)",
 
 "Aku pernah kehilangan semuanya, aku tak mau lagi melihat teman yang berharga bagiku tewas di hadapanku. (Uchiha Sasuke)",
-
+ j
 "Aku lebih menyayangi sasuke sebagai temannya, melebihi kau yang saudaranya sendiri. (Naruto Uzumaki)",
 
 "Kemampuan individu seorang ninja memang penting, tetapi yang lebih penting lagi adalah kerjasama tim. (Kakashi Hatake)",
