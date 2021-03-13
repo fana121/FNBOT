@@ -17,8 +17,7 @@ Kritik kami di sosmed ataupun YouTube.
 
 *Thanks To :*
 Nurotomo
-MfarelS
-ST4RZ
+Ramlan
 Drawl Nag
 Fantod
 Dan kawan-kawan yang lain :)
