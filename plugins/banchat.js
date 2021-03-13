@@ -1,7 +1,7 @@
 let handler = async (m, { conn, participants }) => {
   // if (participants.map(v=>v.jid).includes(global.conn.user.jid)) {
     global.DATABASE._data.chats[m.chat].isBanned = true
-    m.reply('*SUCCESS BANNED*' + ${PhoneNumber('+' + who.replace('@s.whatsapp.net', '')).getNumber('international')} )
+    m.reply('*SUCCESS BANNED*')
   // } else m.reply('Ada nomor host disini...')
 }
 handler.help = ['banchat']
