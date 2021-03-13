@@ -10,7 +10,7 @@ let d = new Date
 await conn.sendFile(m.chat, '/quotemaker', { text, wm: conn.getName(m.sender) }), 'nulis.jpg', 'Nih %name..\n╰ Follow Me: *instagram.com/arpunchs*', m)
 }
 handler.help = ['quotemaker'] (tulisan)|(nama)')
-handler.tags = ['nulis']
+handler.tags = ['maker']
 handler.command = /^quotemaker$/i
 handler.owner = false
 handler.mods = false
