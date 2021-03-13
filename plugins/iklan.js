@@ -1,5 +1,5 @@
-const iklan1 = (pushname, prefix, botName, ownerName) => { 
-	return `🔰 -----[ *「 IKLAN ${botName} 」* ]----- 🔰
+
+🔰 -----[ *「 IKLAN ${botName} 」* ]----- 🔰
 ──────────────────────────────
 ◯ *DAFTAR SEWA & BUAT BOT :*
 ◯ *SEWA : 15K/GRUP (BULAN)*
