@@ -1,7 +1,7 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Fana
 <p align="center">
  
-![IMG-20210308-WA0436](https://user-images.githubusercontent.com/79257110/110326936-e2bef500-804b-11eb-9e13-c64d0d345399.jpg)
+![IMG_20210313_230923_303](https://user-images.githubusercontent.com/79257110/111036320-42087500-8451-11eb-9737-f8081d0a1142.jpg)
 
 <p align="center">
 <a href="#"><img title="FANTOD" src="https://img.shields.io/badge/FANTOD-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
