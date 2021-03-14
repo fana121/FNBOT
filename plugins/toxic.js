@@ -1,5 +1,5 @@
 let handler  = async (m, { conn }) => {
-  conn.reply(m.chat,`“${pickRandom(global.ttoxic)}”`, m)
+  conn.reply(m.chat,`“${pickRandom(global.toxic)}”`, m)
 }
 handler.help = ['toxic']
 handler.tags = ['tools']
@@ -24,20 +24,11 @@ function pickRandom(list) {
 // global toxic
 global.toxic =
   [
-  "Asu",
-  "Memek",
-  "Kontol",
-  "Bajingan",
-  "Ngentod",
-  "Jembod",
-  "Silet",
-  "Peler",
-  ]
-
-// global ttoxic
-global.ttoxic =
-  [
-  "Muka lo kek ${pickRandom(global.toxic)}",
-  "Woi ${pickRandom(global.toxic)}",
-  "Dasar bocah ${pickRandom(global.toxic)}",
+  "Woi kontol",
+  "Bapaklu jagoan mana ngentot",
+  "Bewan sini asu",
+  "Memeklu item kan",
+  "Pasti kontolnya item",
+  "Muka lo mirip asu",
+  "Muka lo mirip babi",
   ]
