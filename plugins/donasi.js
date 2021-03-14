@@ -1,14 +1,14 @@
 let handler = async m => m.reply(`
 ╭─「 Donasi 」
-│ • Gopay/Dana/Indosat
+├➤ Gopay/Dana/Indosat
 │   [085891927691]
-│ • Telkomsel
+├➤ Telkomsel
 │   [082137299043]
-│ • Saweria
+├➤ Saweria
 │   https://saweria.co/fantod
 ╰────
 ╭─「 Hubungi 」
-│ > Ingin Sewa Bot ? Wa.me/6285891927691
+├➤ Ingin Sewa Bot ? Wa.me/6285891927691
 ╰────
 
 Mau donasi ya kak ✨
