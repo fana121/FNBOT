@@ -99,7 +99,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 │ 2. Dilarang chat prib bot
 │
 │ Ingin Sewa Bot ?
-│ Hubungi *wa.me/6285891927691* / *.owner*
+│ Hubungi *wa.me/6285891927691 / .owner*
 ╰────
 %readmore`
     let header = conn.menu.header || '╭─「 %category 」'
