@@ -3,6 +3,9 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ⚠️ *INFO FNBOT* ⚠️
 Dibuat dengan Javascript
 
+Untuk prefix FNBOT menggunakan tanda titik "."
+Apa itu prefix?? Prefix adalah tanda untuk melakukan printah. Contoh : .menu
+
 Rec: Fantod
 Script: @Nurotomo
 
@@ -12,9 +15,9 @@ Script: @Nurotomo
 
 *Sosmed :*
 Kritik kami di sosmed ataupun YouTube.
-╠➥ Instagram: https://www.instagram.com/safan4._.0g
-╠➥ YouTube: https://m.youtube.com/channel/UC9bYTKtZy6qfV09VAPHR6HA
-╠➥ Facebook : https://www.facebook.com/kang.id.9693
+╠➥ Instagram: http://bit.ly/safan4-0g
+╠➥ YouTube: http://bit.ly/yt-Fana
+╠➥ Facebook : https://bit.ly/ki-9693
 ╠➥ Whatsapp : https://wa.me/6285891927691
 
 *Thanks To :*
@@ -28,7 +31,9 @@ Dan all creator bot yang lain :)
 ╠➥ Gopay : 085891927691
 ╠➥ Tsel : 082137299043
 ╠➥ Indosat: 085891927691
-╠➥ Saweria : https://saweria.co/fantod
+╠➥ Saweria : 
+║   https://saweria.co/fantod
+║
 ║> Sewa Bot? chat owner 👉 Wa.me/6285891927691
 ╠═〘 INFO FNBOT 〙 ═
 `.trim(), m)
