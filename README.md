@@ -61,18 +61,16 @@ FN WHATSAPP BOT
 > node index.js
 ```
 --------------
-
-##### Powered By
- [`XTEAM`](https://api.xteam.xyz) 
-##### Author / Creator
- [`Nurutomo`](https://GitHub.com/Nurutomo) 
+ 
 ##### Donasi💰
  [`Saweria`](https://saweria.co/fantod)
 
 ##### Thanks To :
-1. Allah SWT
-2. Nurutomo
-3. Fana121
+1. Nurutomo
+2. Ramlan
+3. Drawl Nag
+4. Fana
+& all creator bot yg lainnya
 
 #### Follow me in the sosmed
 <p>
