@@ -75,31 +75,38 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
     conn.menu = conn.menu ? conn.menu : {}
     let before = conn.menu.before || `
 *I'am Fana*
+            _Halo *%name* 👋 berikut menu all fitur FNBOT🐦.
 
-       _Halo *%name* Gunain Botnya Jangan Spam Ya Ngentod🗿_
+╭══─⊱ ❰ *USER* ❱ ⊰─═══
+├➤ *Nama* : %name
+├➤ *Link* : https://wa.me/${who.split`@`[0]}${registered ? '\nAge: ' + age : ''}
+├➤ *Limit* : %limit
+├➤ *XP* : %exp
+╰─── ⸨ *FNBOT✓* ⸩  ⊰─═══╯
 
-*Follow me in sosmed :*
-*Instagram :*
-https://www.instagram.com/safan4._.0g
-*Facebook :*
-https://www.facebook.com/kang.id.9693
-*YouTube :*
-https://m.youtube.com/channel/UC9bYTKtZy6qfV09VAPHR6HA
-
+╭══─⊱ ❰ *SOSMED* ❱ ⊰─══
+├♡ۣۜۜ፝͜͜͡͡✿➤ Intsagram :
+├ http://bit.ly/safan4-0g
+├♡ۣۜۜ፝͜͜͡͡✿➤ Facebook :
+├ https://bit.ly/ki-9693
+├♡ۣۜۜ፝͜͜͡͡✿➤ YouTube :
+├ http://bit.ly/yt-Fana
+╰─── ⸨ *FNBOT✓* ⸩  ⊰─═══╯
 %readmore
-╭─「 ${conn.user.name} 」
-│ Hai, %name!
-│
-│ *%exp XP*
-│ Tersisa *%limit Limit*
-│
+╭─「 *FNBOT* 」
+│ Hai, %name!g
+│ 
 │ Tanggal: *%week %weton, %date*
 │ Waktu: *%time*
-│
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
+│ 
+│ *Rules :*
+│ 1. Dilarang spam/telpon bot
+│ 2. Dilarang chat prib bot
+│
 │ Ingin Sewa Bot ?
-│ Hubungi *wa.me/6285891927691*
+│ Hubungi *wa.me/6285891927691* / *.owner*
 ╰────
 %readmore`
     let header = conn.menu.header || '╭─「 %category 」'
