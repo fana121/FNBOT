@@ -1,7 +1,7 @@
 {
   "name": "FNBOT",
-  "version": "1.1.1",
-  "description": "classic whatsapp bot",
+  "version": "2.0.0",
+  "description": "numpang nama doang ga bikin lu pro",
   "depecrated": false,
   "main": "index.js",
   "directories": {
@@ -21,7 +21,7 @@
   ],
   "homepage": "https://github.com/fana121/FNBOT",
   "author": {
-    "name": "Fantod"
+    "name": "Fana"
   },
   "repository": {
     "url": "https://github.com/fana121/FNBOT.git"
