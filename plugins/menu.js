@@ -49,7 +49,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
       'jadibot': 'Jadi Bot',
       'owner': 'Owner',
       'host': 'Host',
-      'anime': 'Anime',
+      'islam': 'Islam',
       'info': 'Info',
       '': 'No Category',
     }
