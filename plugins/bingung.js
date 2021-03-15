@@ -38,7 +38,22 @@ Membuat text baca selengkapnya, contoh : ${prefix}readmore text|text
 Note : Sisanya gunain otak kalian aja cape w jelasin :)
          ────────────────
 🔰 -----[ *TUTOR BY FANA* ]----- 🔰
-`
+`.trim(), m)
 }
 
-exports.cara = cara
+handler.help = ['iklan']
+handler.tags = ['info']
+handler.command = /^(iklan)$/i
+handler.owner = false
+handler.mods = false
+handler.premium = false
+handler.group = false
+handler.private = false
+
+handler.admin = false
+handler.botAdmin = false
+
+handler.fail = null
+
+module.exports = handler
+
