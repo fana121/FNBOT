@@ -1,7 +1,7 @@
 if (!isGroup) return reply(mess.only.group)
  if (!isGroupAdmins) return reply(mess.only.admin)
  if (!isBotGroupAdmins) return reply(mess.only.Badmin)
- if (args.length < 1) return reply('ketik #antilink on untuk mengaktifkan')
+ if (args.length < 1) return reply('ketik .antilink on untuk mengaktifkan')
  if ((args[0]) === 'on') {
 	 if (isAntiLink) return reply('anti link sudah on')
 	 antilink.push(from)
