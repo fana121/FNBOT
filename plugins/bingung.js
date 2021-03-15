@@ -16,8 +16,8 @@ Suara google contoh : ${prefix}tts id Hallo I'am Fana
 Reply sticker yang mau dijadiin image
 ➸ *${prefix}nulis*
 Untuk menulis dibuku
-➸ *${prefix}nulisfolio*
-Untuk menulis di folio
+➸ *${prefix}calc*
+Untuk menghitung (kalkulator)
 ➸ *${prefix}quotes*
 Random quotes
 ➸ *${prefix}hidetag*
