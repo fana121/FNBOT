@@ -13,7 +13,7 @@ if (!isGroup) return reply(mess.only.group)
 	 fs.writeFileSync('./database/json/antilink.json', JSON.stringify(antilink))
 	 reply(`\`\`\`✓“Sukses menonaktifkan fitur anti link di group\`\`\` *${groupMetadata.subject}*`)
  } else {
-     reply('on untuk mengaktifkan, off untuk menonaktifkan')
+         reply('on untuk mengaktifkan, off untuk menonaktifkan')
 }
 handler.help = ['antilink'].map(v => v + 'on/off')
 handler.tags = ['admin']
