@@ -1,15 +1,17 @@
+let handler  = async (m, { conn, usedPrefix: _p }) => {
+  conn.reply(m.chat, `
 🔰 -----[ *PANDUAN PENGGUNAAN FNBOT* ]----- 🔰
 Hallo, %name 👋
-Berikut adalah cara penggunaan *FNBOT*
+Berikut adalah cara penggunaan *FNBOT*♻️
          ────────────────
-Kalo gak paham tuh baca dulu -_-
+Kalo gak paham tuh baca dulu tod jangan maen spam kontol🗿
          ────────────────
 ➸ *${prefix}sticker*
 Tag salah satu gambar & ketik ${prefix}sticker
 ➸ *${prefix}ttp*
 Text to sticker contoh : ${prefix}ttp Fantod
 ➸ *${prefix}tts*
-Suara google contoh : ${prefix}tts id Hallo Ramlan
+Suara google contoh : ${prefix}tts id Hallo I'am Fana
 ➸ *${prefix}toimg*
 Reply sticker yang mau dijadiin image
 ➸ *${prefix}nulis*
@@ -40,10 +42,9 @@ Note : Sisanya gunain otak kalian aja cape w jelasin :)
 🔰 -----[ *TUTOR BY FANA* ]----- 🔰
 `.trim(), m)
 }
-
-handler.help = ['iklan']
+handler.help = ['bingungcok']
 handler.tags = ['info']
-handler.command = /^(iklan)$/i
+handler.command = /^(bingungcok)$/i
 handler.owner = false
 handler.mods = false
 handler.premium = false
