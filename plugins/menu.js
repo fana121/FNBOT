@@ -89,6 +89,9 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╭─「 *FNBOT* 」
 │ Hai, %name!
 │ 
+│ *%exp exp*
+│ *Tersisa : %limit limit
+│
 │ Tanggal: *%week %weton, %date*
 │ Waktu: *%time*
 │ Uptime: *%uptime (%muptime)*
