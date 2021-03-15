@@ -37,7 +37,7 @@ Untuk menampilkan daftar sewa bot dan buat bot
 ➸ *${prefix}readmore*
 Membuat text baca selengkapnya, contoh : ${prefix}readmore text|text
          ────────────────
-Note : Sisanya gunain otak kalian aja cape w jelasin :)
+Note : Sisanya gunain otak kalian aja cape w jelasin 🗿
          ────────────────
 🔰 -----[ *TUTOR BY FANA* ]----- 🔰
 `.trim(), m)
