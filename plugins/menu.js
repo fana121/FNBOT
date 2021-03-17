@@ -50,8 +50,8 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
       'owner': 'Owner',
       'host': 'Host',
       'other': 'Other',
+      'jadwal': 'Jadwal',
       'info': 'Info',
-      '': 'No Category',
     }
     for (let plugin of Object.values(global.plugins))
       if (plugin && 'tags' in plugin)
@@ -77,16 +77,16 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 *I'am Fana*
             _Halo *%name* 👋 berikut menu all fitur FNBOT🐦.
 
-╭══─⊱ ❰ *SOSMED* ❱ ⊰─══
+╭══─⊱ 「 *SOSMED* 」 ⊰─══
 ├ *Intsagram :*
 ├ http://bit.ly/safan4-0g
 ├ *Facebook :*
 ├ https://bit.ly/ki-9693
 ├ *YouTube :*
 ├ http://bit.ly/yt-Fana
-╰─── ⸨ *FNBOT✓* ⸩  ⊰─═══╯
+╰─── ⸨ *FNBOT✅* ⸩  ⊰─═══╯
 %readmore
-╭─「 *FNBOT* 」
+╭─「 *FNBOT✅* 」
 │ Hai, %name!
 │ 
 │ *%exp exp*
