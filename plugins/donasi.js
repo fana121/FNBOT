@@ -1,5 +1,5 @@
 let handler = async m => m.reply(`
-╭─「 Donasi 」
+╭─「 *Donasi* 」
 ├➤ Gopay/Dana/Indosat
 │   [085891927691]
 ├➤ Telkomsel
