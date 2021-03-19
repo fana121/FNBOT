@@ -1,7 +1,6 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
   conn.reply(m.chat, `
 🔰 -----[ *PANDUAN PENGGUNAAN FNBOT* ]----- 🔰
-Hallo, %name 👋
 Berikut adalah cara penggunaan *FNBOT*♻️
          ────────────────
 Kalo gak paham tuh baca dulu tod jangan maen spam kontol🗿
