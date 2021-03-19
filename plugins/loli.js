@@ -1,5 +1,5 @@
 let handler  = async (m, { conn }) => {
-  conn.reply(m.chat,`${pickRandom(global.loli)}`, m)
+  conn.sendFile(m.chat,`${pickRandom(global.loli)}`, m)
 }
 handler.help = ['loli']
 handler.tags = ['anime']
