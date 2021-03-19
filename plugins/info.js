@@ -6,7 +6,7 @@ Dibuat dengan Javascript
 Untuk prefix FNBOT menggunakan tanda titik "."
 Apa itu prefix?? Prefix adalah tanda untuk melakukan printah. Contoh : .menu
 
-Rec: Fantod
+Rec: Fana
 Script: @Nurotomo
 
 *Rules FNBOT:*
@@ -24,7 +24,6 @@ Kritik kami di sosmed ataupun YouTube.
 Nurotomo
 Ramlan
 Drawl Nag
-Fantod
 Dan all creator bot yang lain :)
 
 ╠═〘 DONASI 〙 ═
