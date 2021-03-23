@@ -281,7 +281,7 @@ Zimbabwe 263
 `.trim(), m)
 }
 handler.help = ['kodenegara']
-handler.tags = ['other']
+handler.tags = ['tools']
 handler.command = /^(kodenegara)$/i
 handler.owner = false
 handler.mods = false
