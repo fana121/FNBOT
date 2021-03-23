@@ -49,7 +49,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
       'jadibot': 'Jadi Bot',
       'owner': 'Owner',
       'host': 'Host',
-      'other': 'Other',
+      'hack': 'Hacking',
       'anime': 'Anime',
       'info': 'Info',
     }
@@ -84,9 +84,9 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ├ https://bit.ly/ki-9693
 ├ *YouTube :*
 ├ http://bit.ly/yt-Fana
-╰─── ⸨ *FNBOT✅* ⸩  ⊰─═══╯
+╰─「*FNBOT✅*」
 %readmore
-╭─「 *FNBOT✅* 」
+╭─「 *FNBOT* 」
 │ Hai, %name!
 │ 
 │ *%exp exp*
