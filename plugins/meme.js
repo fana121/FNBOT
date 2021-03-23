@@ -2,7 +2,7 @@ let handler  = async (m, { conn }) => {
   conn.sendFile(m.chat,`${pickRandom(global.meme)}`, m)
 }
 handler.help = ['meme']
-handler.tags = ['other']
+handler.tags = ['tools']
 handler.command = /^(meme)$/i
 handler.owner = false
 handler.mods = false
