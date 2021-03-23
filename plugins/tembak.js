@@ -2,7 +2,7 @@ let handler  = async (m, { conn }) => {
   conn.reply(m.chat,`${pickRandom(global.tembak)}`, m)
 }
 handler.help = ['tembak']
-handler.tags = ['other']
+handler.tags = ['quotes']
 handler.command = /^(tembak)$/i
 handler.owner = false
 handler.mods = false
