@@ -22,8 +22,6 @@ Kritik kami di sosmed ataupun YouTube.
 
 *Thanks To :*
 Nurotomo
-Ramlan
-Drawl Nag
 Dan all creator bot yang lain :)
 
 ╠═〘 DONASI 〙 ═
