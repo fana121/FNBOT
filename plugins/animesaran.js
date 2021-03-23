@@ -276,5 +276,5 @@ handler.botAdmin = false
 
 handler.fail = null
 
-module.exports = handlerhandler
+module.exports = handler
              
