@@ -1,12 +1,11 @@
-let handler = async (m, { conn, text }) => {
+let handler = async (m, { conn, command, text }) => {
   conn.reply(m.chat, `
-*Pertanyaan:* ${m.text}
-*Jawaban:* ${pickRandom(['100% Hati hati dia kang gay*','87% *Woah*','68% *Lumayan*','50% *Setengah gay setengah normal*','29%','10%'])}
+*Pertanyaan:* ${command} ${text}
+*Jawaban:* ${Math.floor(Math.random() * 10)} ${pickRandom(['100% Hati hati dia kang gay*','87% *Woah*','68% *Lumayan*','50% *Setengah gay setengah normal*','29%','10%'])}
 `.trim(), m)
 }
-handler.help = ['kadargay']
+handler.help = ['kadargay <@user>')
 handler.tags = ['kerang']
-handler.customPrefix = /(\?$)/
 handler.command = /^kadargay$/i
 handler.owner = false
 handler.mods = false
