@@ -6,7 +6,7 @@ let handler = async (m, { conn, command, text }) => {
 }
 handler.help = ['kadargay <@user>')
 handler.tags = ['kerang']
-handler.command = /^kadargay$/i
+handler.command = /^(kadargay)$/i
 handler.owner = false
 handler.mods = false
 handler.premium = false
