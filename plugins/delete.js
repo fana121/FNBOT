@@ -9,9 +9,9 @@ let handler = function (m) {
     remoteJid: m.chat
   })
 }
-handler.help = ['del', 'delete']
+handler.help = ['d','del','delete']
 handler.tags = ['info']
 
-handler.command = /^del(ete)?$/i
+handler.command = /^(d)el(ete)?$/i
 
 module.exports = handler
