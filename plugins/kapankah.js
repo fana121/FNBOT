@@ -6,7 +6,7 @@ let handler = async (m, { conn, command, text }) => {
 }
 handler.help = ['kapankah <pertanyaan>']
 handler.tags = ['kerang']
-handler.command = /^kapankah$/i
+handler.command = /^(kapankah)$/i
 handler.owner = false
 handler.mods = false
 handler.premium = false
