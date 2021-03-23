@@ -10,7 +10,7 @@ let handler = async (m, { conn, command, text }) => {
 }
 handler.help = ['artinama <nama>']
 handler.tags = ['kerang']
-handler.command = /^artinama$/i
+handler.command = /^(artinama)$/i
 handler.owner = false
 handler.mods = false
 handler.premium = false
