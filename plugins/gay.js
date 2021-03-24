@@ -4,7 +4,7 @@ let handler = async (m, { conn, command, text }) => {
 *Jawaban:* ${Math.floor(Math.random() * 10)} ${pickRandom(['100% Hati hati dia kang gay*','87% *Woah*','68% *Lumayan*','50% *Setengah gay setengah normal*','29%','10%'])}
 `.trim(), m)
 }
-handler.help = ['kadargay <@user>')
+handler.help = ['kadargay <@user>']
 handler.tags = ['kerang']
 handler.command = /^(kadargay)$/i
 handler.owner = false
