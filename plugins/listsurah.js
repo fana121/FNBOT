@@ -116,7 +116,7 @@ Assalamu'alaikum
 111. Al-Lahab المسد‎‎
 112. Al-Ikhlas الإخلاص‎‎
 113. Al-Falaq الْفَلَقِ
-114. An-Nas النَّاسِ`
+114. An-Nas النَّاسِ
 `.trim(), m)
 }
 handler.help = ['listsurah']
