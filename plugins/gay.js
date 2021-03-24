@@ -1,7 +1,7 @@
 let handler = async (m, { conn, command, text }) => {
   conn.reply(m.chat, `
 *Pertanyaan:* ${command} ${text}
-*Jawaban:* ${Math.floor(Math.random() * 10)} ${pickRandom(['100% Hati hati dia kang gay*','87% *Woah*','68% *Lumayan*','50% *Setengah gay setengah normal*','29%','10%'])}
+*Jawaban:* ${Math.floor(Math.random() * 10)} ${pickRandom(['100% Hati hati dia kang gay*','87% *Awas dia bahaya*','68% *Lumayan*','50% *Setengah gay setengah normal*','29%','10% orang baek²'])}
 `.trim(), m)
 }
 handler.help = ['kadargay <@user>']
