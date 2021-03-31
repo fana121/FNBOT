@@ -77,15 +77,15 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 *I'am Fana*
             _Halo *%name* 👋 berikut menu all fitur FNBOT🐦.
 
-╭─「 *SOSMED* 」
+╭─「 *FNBOT* 」
 ├ *Intsagram :*
 ├ http://bit.ly/safan4-0g
 ├ *Facebook :*
 ├ https://bit.ly/ki-9693
 ├ *YouTube :*
 ├ http://bit.ly/yt-Fana
-╰─「 *FNBOT* 」
-%readmore
+╰────
+
 ╭─「 *FNBOT* 」
 │ Hai, %name!
 │ 
