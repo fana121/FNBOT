@@ -67,9 +67,7 @@ FN WHATSAPP BOT
 
 ##### Thanks To :
 1. Nurutomo
-2. Ramlan
-3. Drawl Nag
-4. Fana
+2. Fana
 & all creator bot yg lainnya
 
 #### Follow me in the sosmed
