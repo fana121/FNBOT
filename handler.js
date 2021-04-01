@@ -24,7 +24,7 @@ module.exports = {
           if (!'afkReason' in user) user.afkReason = ''
         } else global.DATABASE._data.users[m.sender] = {
           exp: 0,
-          limit: 10,
+          limit: 30,
           lastclaim: 0,
           registered: false,
           name: this.getName(m.sender),
