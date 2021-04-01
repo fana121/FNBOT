@@ -25,7 +25,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ├➤ *HARAP HUBUNGI NOMOR DIBAWAH :*
 ├➤ *wa.me/6285891927691*
 ──────────────────────────────
-🔰 -----[ *「 POWERED BY FANTOD 」* ]----- 🔰
+🔰 -----[ *「 POWERED BY FANA 」* ]----- 🔰
 `.trim(), m)
 }
 handler.help = ['iklan']
