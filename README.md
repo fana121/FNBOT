@@ -61,9 +61,6 @@ FN WHATSAPP BOT
 > node index.js
 ```
 --------------
- 
-##### Donasi💰
- [`Saweria`](https://saweria.co/fantod)
 
 ##### Thanks To :
 1. Nurutomo
