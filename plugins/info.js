@@ -15,23 +15,21 @@ Script: @Nurotomo
 
 *Sosmed :*
 Kritik kami di sosmed ataupun YouTube.
-╠➥ Instagram: http://bit.ly/safan4-0g
-╠➥ YouTube: http://bit.ly/yt-Fana
-╠➥ Facebook : https://bit.ly/ki-9693
-╠➥ Whatsapp : https://wa.me/6285891927691
+╠➥ Instagram: http://www.instagram.com/nickname_.safana
+╠➥ YouTube: https://www.youtube.com/channel/UC9bYTKtZy6qfV09VAPHR6HA
+╠➥ Facebook : https://https://www.facebook.com/kang.id.9693
+╠➥ Whatsapp : https://wa.me/62895712546050
 
 *Thanks To :*
 Nurotomo
 Dan all creator bot yang lain :)
 
 ╠═〘 DONASI 〙 ═
-╠➥ Gopay : 085891927691
-╠➥ Tsel : 082137299043
-╠➥ Indosat: 085891927691
-╠➥ Saweria : 
-║   https://saweria.co/fantod
+╠➥ Gopay : 0895712546050
+╠➥ Tri : 0895712546050
+╠➥ Indosat: 085867928862
 ║
-║> Sewa Bot? chat owner 👉 Wa.me/6285891927691
+║> Sewa Bot? chat owner 👉 Wa.me/62895712546050
 ╠═〘 INFO FNBOT 〙 ═
 `.trim(), m)
 }
