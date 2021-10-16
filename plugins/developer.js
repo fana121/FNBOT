@@ -7,19 +7,19 @@ SINGKAT PENJELASAN AJA, BUAT KALIAN YANG INGIN AMBIL CASE TOLONG IZIN, DAN BUAT 
 
 ● *DEVELOPER :*
 
-├♡ۣۜۜ፝͜͜͡͡✿➤ Name : Fana
-├♡ۣۜۜ፝͜͜͡͡✿➤ Number : 6285891927691@s.whatsapp.net
-├♡ۣۜۜ፝͜͜͡͡✿➤ Link : https://wa.me/6285891927691
+├♡ۣۜۜ፝͜͜͡͡✿➤ Name : SHP
+├♡ۣۜۜ፝͜͜͡͡✿➤ Number : 62895712546050@s.whatsapp.net
+├♡ۣۜۜ፝͜͜͡͡✿➤ Link : https://wa.me/62895712546050
 
 
 ● *SOSIAL MEDIA :*
 
 ├♡ۣۜۜ፝͜͜͡͡✿➤ *INSTAGRAM :*
-├     http://bit.ly/safan4-0g
+├     http://instagram.com/nickname_.safana
 ├♡ۣۜۜ፝͜͜͡͡✿➤ *YOUTUBE :*
-├     http://bit.ly/yt-Fana
+├     https://youtube.com/channel/UC9bYTKtZy6qfV09VAPHR6HA
 ├♡ۣۜۜ፝͜͜͡͡✿➤*FACEBOOK :*
-├     https://bit.ly/ki-9693
+├     https://www.facebook.com/kang.id.9693
 
 
 
@@ -30,14 +30,12 @@ _“jauhilah api neraka, walau hanya dengan bersedekah sebiji kurma (sedikit). J
 
 *DONASI SEIKHLASNYA KAK, AGAR DEVELOPER SEMANGAT UNTUK UPDATE/TAMBAHIN FITUR TERBARU DI BOT INI😊*
 
-├♡ۣۜۜ፝͜͜͡͡✿➤ *SAWERIA :*
-├     https://saweria.co/fantod
 ├♡ۣۜۜ፝͜͜͡͡✿➤ *GOPAY :*
-├     0858-9192-7691
+├     0895 7125 46050
 ├♡ۣۜۜ፝͜͜͡͡✿➤ *INDOSAT :*
-├     0858-9192-7691
-├♡ۣۜۜ፝͜͜͡͡✿➤ *TELKOMSEL :*
-├     0821-3729-9043
+├     0858 6792 8862
+├♡ۣۜۜ፝͜͜͡͡✿➤ *TRI :*
+├     0895 7125 46050
 
 *BEBAS KALIAN MAU DONASI BERAPA, YG PENTING IKHLAS, SEMOGA KALIAN SEMUA DI MUDAHKAN REZEKINYA AMIIN.*
 `.trim(), m)
