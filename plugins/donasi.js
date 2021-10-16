@@ -1,14 +1,14 @@
 let handler = async m => m.reply(`
 ╭─「 *Donasi* 」
-├➤ Gopay/Dana/Indosat
-│   [085891927691]
-├➤ Telkomsel
-│   [082137299043]
-├➤ Saweria
-│   https://saweria.co/fantod
+├➤ Gopay
+│   [0895712546050]
+├➤ Indosat
+│   [085867928862]
+├➤ Tri
+│   [0895712546050]
 ╰────
 ╭─「 Hubungi 」
-├➤ Ingin Sewa Bot ? Wa.me/6285891927691
+├➤ Ingin Sewa Bot ? Wa.me/62895712546050
 ╰────
 
 Mau donasi ya kak ✨
@@ -25,7 +25,7 @@ Ini *#caranya untuk Donasi*
 *Kalau tidak juga gak papa*👍🏻
 
 ▌│█║▌║▌║║▌║▌║█│▌ ▌│█║▌║▌║║▌║▌║█│▌
-           *©FANAGANS*
+             *©SHP2021*
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
 handler.tags = ['info']
