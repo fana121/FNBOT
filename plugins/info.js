@@ -3,10 +3,10 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ⚠️ *INFO FNBOT* ⚠️
 Dibuat dengan Javascript
 
-Untuk prefix FNBOT menggunakan tanda titik "."
-Apa itu prefix?? Prefix adalah tanda untuk melakukan printah. Contoh : .menu
+Untuk prefix FNBOT menggunakan tanda ${Prefix}
+Apa itu prefix?? Prefix adalah tanda untuk melakukan printah. Contoh : ${Prefix}menu
 
-Rec: Fana
+Rc: Fana
 Script: @Nurotomo
 
 *Rules FNBOT:*
