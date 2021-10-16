@@ -79,14 +79,14 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 
 ╭─「 *FNBOT* 」
 ├ *Intsagram :*
-├ http://bit.ly/safan4-0g
+├ https://www.instagram.com/nickname_.safana
 ├ *Facebook :*
-├ https://bit.ly/ki-9693
+├ https://www.facebook.com/kang.id.9693
 ├ *YouTube :*
-├ http://bit.ly/yt-Fana
+├ https://www.youtube.com/channel/UC9bYTKtZy6qfV09VAPHR6HA
 ╰────
 
-╭─「 *FNBOT* 」
+╭─「 *DETAIL* 」
 │ Hai, %name!
 │ 
 │ *%exp exp*
@@ -102,7 +102,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 │ 2. Dilarang chat prib bot
 │
 │ Ingin Sewa Bot ?
-│ Hubungi *.owner*
+│ Hubungi *OWNER*
 ╰────
 %readmore`
     let header = conn.menu.header || '╭─「 %category 」'
